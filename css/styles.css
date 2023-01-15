@@ -1,0 +1,28 @@
+body{
+    background-color:#E3F6FF;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(129, 25, 226);
+    border-width: 5px;
+    width: 6%;
+}
+
+h3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #FF597B;
+    font-style: inherit;
+}
+
+h1{
+    color: #CB1C8D;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.img{
+    background-color:#82AAE3 ;
+    border-radius: 120px;
+}
